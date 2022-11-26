@@ -11,7 +11,7 @@
 | `nameGroup` | `string`         | **Required**. ej. A, B, C, D, ...                             |
 | `teams`     | `array [object]` | **Required**. Group teams                                     |
 | `matches`   | `array [object]` | **Required**. Group matches                                   |
-| `position`  | `object`         | **Required**. Group positions (first, second, third, fourth ) |
+| `position`  | `object`         | **Required**. Group positions (first, second, third, fourth)  |
 
 #### Teams Array
 
@@ -41,4 +41,4 @@
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+What did you learn while building this project? What challenges did you face and how did you overcome them?.
